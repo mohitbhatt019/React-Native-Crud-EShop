@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "android": {
+      "permissions": ["INTERNET"]
+    }
+  },
+  "name": "animated_login_signup",
+  "slug": "animated_login_signup"
+}
